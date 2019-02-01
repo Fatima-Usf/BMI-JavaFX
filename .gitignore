@@ -1,6 +1,8 @@
 build
 dist
-nbproject
+nano.save
 test
 build.xml
 manifest.mf
+nbproject
+
